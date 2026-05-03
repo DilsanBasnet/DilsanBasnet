@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 I'm Dilsan Basnet,
+🌱 I'm Current Learning Web Game, Cyber-Security, Web-toolkits, uI Designing. 
+⚒️ I'm working on Web-Games👾,  toolkits web etc.
+
+
+
+
