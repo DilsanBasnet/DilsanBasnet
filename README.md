@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 I'm Dilsan Basnet,<br><br>🌱 I'm Current Learning Game Development, Cyber-Security, Web-toolkits, UI Designing. <br><br>⚒️ I'm working on Web-Games👾,  toolkits web etc.<br>
 
 
