@@ -1,5 +1,5 @@
 # About Me:
-👋 I'm Dilsan Basnet,<br><br>🌱 I'm Current Learning Game Development, Cyber-Security, Web-toolkits, UI Designing. <br><br>⚒️ I'm working on Web-Games👾,  toolkits web etc.<br>
+👋 I'm Dilsan Basnet,<br><br>🌱 I'm Current Learning Web-Game, Game Development, Cyber-Security, Web-toolkits, <br><br>⚒️ I'm working on Web-Games👾,  toolkits web, etc.<br>
 
 
 ## 🌐 Socials:
@@ -20,9 +20,6 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=DilsanBasnet&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 
 
